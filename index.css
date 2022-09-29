@@ -31,7 +31,8 @@ header {
 }
 
 .navList > li {
-    border: 1px solid whitesmoke;
+    border-right: 1px solid whitesmoke;
+    border-left: 1px solid whitesmoke;
     color: #eee;
     list-style: none;
     text-align: center;
